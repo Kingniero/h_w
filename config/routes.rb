@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-  get 'index2/indexx'
 
   get 'index/index'
 
